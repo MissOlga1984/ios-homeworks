@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  Netology_IB_Instruments
 //
-//  Created by Mac on 06.09.2022.
+//  Created by Mac on 31.08.2022.
 //
 
 import UIKit
